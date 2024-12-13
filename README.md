@@ -1,7 +1,7 @@
 # Exemplo para análise de experimento em delineamento inteiramente casualizado no R
 
 Consiste em um exemplo simples para análise dos dados de crescimento em altura e diâmetro de mudas de _Ceiba speciosa_ em diferentes formulações de substrato contendo lodo de esgoto e substrato comercial.
-A finalidade da análise é para utilização em aulas práticas para demonstração do uso do R no Google Colab.
+A finalidade da análise é a utilização em aulas práticas para demonstração do uso do R no Google Colab.
 
 Dados referentes ao artigo:
 
